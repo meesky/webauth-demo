@@ -1,4 +1,4 @@
 {
     "port": 3000,
-    "origin": "https://web-authn-test.herokuapp.com"
+    "origin": "https://webauth-test.herokuapp.com"
 }
